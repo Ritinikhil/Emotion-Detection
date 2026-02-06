@@ -1,0 +1,3 @@
+model,best_test_acc
+FER_only,0.6188353301755364
+RAF_only,0.7953063885267275

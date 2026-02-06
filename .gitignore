@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+new_env/
+.venv/
+
+# IDE
+.idea/
+
+# ML artifacts / Models
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Dataset folders (too large for GitHub)
+dataset/
+dataset-2/
+
+# Large data files
+combined.csv
+*.xml
+
+# OS
+.DS_Store
+Thumbs.db
