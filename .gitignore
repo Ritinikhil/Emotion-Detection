@@ -22,7 +22,6 @@ dataset/
 dataset-2/
 
 # Large data files
-combined.csv
 *.xml
 
 # OS
