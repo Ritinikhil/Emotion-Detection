@@ -4,6 +4,10 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 🏆 GitHub Achievements
+
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Ritinikhil&theme=darkhub&no-frame=true&margin-w=15)
+
 A lightweight, real-time facial emotion recognition system achieving **80% accuracy on RAF-DB**, **50+ FPS on CPU**, and **~80% storage reduction** through cloud-optimized compression.
 
 ## 🎯 Key Features
