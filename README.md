@@ -95,6 +95,8 @@ python realtime_demo.py --model checkpoints/fercnn_raf.pth --cloud-logging
 ```
 
 Ensure Firebase credentials are configured via environment variables or a config file.
+## Output
+<img width="1078" height="635" alt="image" src="https://github.com/user-attachments/assets/c3be9f14-04c6-4894-a56e-8c88e36d3545" />
 
 ## 📁 Project Structure
 
